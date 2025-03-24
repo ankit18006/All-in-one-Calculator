@@ -1,0 +1,11 @@
+<values>
+    <resources>
+        <string name="app_name">All-in-One Calculator</string>
+        <string name="hello_world">Hello World!</string>
+        <color name="primary_color">#6200EE</color>
+        <color name="primary_variant">#3700B3</color>
+        <color name="secondary_color">#03DAC5</color>
+        <color name="background_color">#FFFFFF</color>
+        <color name="text_color">#000000</color>
+    </resources>
+</values>
